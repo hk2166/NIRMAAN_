@@ -2,6 +2,14 @@
 
 A single-page React + Vite TypeScript front-end for an event landing page and registration flow. This repository contains a responsive, TailwindCSS-styled UI with two routes (`/` and `/register`) and components for hero, details, registration, sponsorship, gifts, and project submission.
 
+## Table of Contents
+- [Project Description](#-project-description)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Environment Configuration](#-environment)
+- [Usage Examples](#-usage-examples)
+- [Contributing](#-contributing)
+
 ---
 
 ## 🚀 Project Description
@@ -13,7 +21,7 @@ NIRMAAN is a modular, single-page frontend designed to advertise a hackathon or 
 - Provide a registration flow (embedded Google Form) and a project-submission page (also embedded).
 - Serve as a lightweight static site that can be deployed to any static host.
 
-This repository intentionally contains no server-side code; it’s meant to be deployed as static assets or integrated with a simple backend later.
+This repository intentionally contains no server-side code, it’s meant to be deployed as static assets or integrated with a simple backend later.
 
 ---
 
@@ -128,10 +136,10 @@ Be respectful and professional in issue threads and PR discussions.
 
 **Workflow**  
 1. Fork the repository.
-2. Create a feature branch from main:
-3. Branch naming: `feature/<short-description>`, `fix/<short-description>`, or `chore/<task>`.
-4. Make changes, keeping commits small and focused.
-5. Open a Pull Request to main with:
-- Summary of changes.
-- Screenshot(s) for UI changes.
-- Any required migration or environment changes.
+2. Create a feature branch from main.
+3. Make changes.
+4. Commit Your Changes
+5. Open a Pull Request to `main` with:
+   - Summary of changes.
+   - Screenshot(s) for UI changes.
+   - Any required migration or environment changes.
