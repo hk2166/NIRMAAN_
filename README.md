@@ -1,4 +1,5 @@
-![Build Status](https://github.com/AryanVBW/NIRMAAN/actions/workflows/main.yml/badge.svg)
+[![pages-build-deployment](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment)
+
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)
 
 
