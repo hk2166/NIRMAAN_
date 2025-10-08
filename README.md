@@ -1,3 +1,6 @@
+[![pages-build-deployment](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment) ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)
+
+
 # NIRMAAN - Hackathon Landing & Registration
 
 A single-page React + Vite TypeScript front-end for an event landing page and registration flow. This repository contains a responsive, TailwindCSS-styled UI with two routes (`/` and `/register`) and components for hero, details, registration, sponsorship, gifts, and project submission.
