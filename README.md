@@ -1,4 +1,8 @@
+
 # 🎃 NIRMAAN - Code the Future, Shape the Web
+
+[![pages-build-deployment](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment) ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)
+
 
 <div align="center">
 
@@ -501,4 +505,3 @@ If you have any questions or need help:
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
-</div>
